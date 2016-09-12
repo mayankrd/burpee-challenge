@@ -10,7 +10,7 @@
   along with a button 'Final Project' to invoke the Burpee Challenge application.
   The second icon titled 'MAD16S-BurpeeChallenge' on phone invokes the Burpee Challenge application directly. 
 
-The complete project can be opened in Android Studio for editing and deployment on AVDs.
+* The complete project can be opened in Android Studio for editing and deployment on AVDs.
 
 *** About the Burpee Challenge app ***
 
