@@ -2,7 +2,7 @@
 
 *** Installation and Editing instructions ***
 
-* This complete Android Studio project makes up an Android mobile application which contains multiple projects intergrated as one app namely the Burpee Challenge and Scraggle.
+* This complete Android Studio project makes up an Android mobile application which contains multiple projects intergrated as one app. This one app contains the Burpee Challenge app and the Scraggle game.
 
 * The application can be used diretly by installing the 'app-release.apk' file present under 'app' folder.
 
