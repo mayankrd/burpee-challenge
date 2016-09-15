@@ -1,14 +1,16 @@
-# burpee-challenge
+# numad16s
 
 *** Installation and Editing instructions ***
 
-* This complete Android Studio project makes up an Android mobile application.
+* This complete Android Studio project makes up an Android mobile application which contains multiple projects intergrated as one app namely the Burpee Challenge and Scraggle.
 
 * The application can be used diretly by installing the 'app-release.apk' file present under 'app' folder.
 
 * Upon installing the app creates two icons on phone. The first icon named 'NUMAD16S-MayankRanjanDayal' contains the full application 
-  along with a button 'Final Project' to invoke the Burpee Challenge application.
-  The second icon titled 'MAD16S-BurpeeChallenge' on phone invokes the Burpee Challenge application directly. 
+  along with a button 'Final Project' on home screen to invoke the Burpee Challenge application.
+  The second icon titled 'MAD16S-BurpeeChallenge' on phone invokes the Burpee Challenge application directly.
+
+* For accessing 'Scraggle' game, click on the 'Word Game' option from app's home screen.
 
 * The complete project can be opened in Android Studio for editing and deployment on AVDs.
 
