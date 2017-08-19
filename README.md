@@ -1,4 +1,4 @@
-# Burpee Challenge & NUMAD Android App
+# Burpee Challenge & NUMAD Android App [![github](https://rawgit.com/aleen42/badges/master/src/github.svg)](#)
 
 ## About the Burpee Challenge app
 
@@ -16,11 +16,13 @@
 * [Android Studio](https://developer.android.com/studio/index.html) - The Official IDE for Android
 * [Firebase](https://firebase.google.com/) - Mobile platform 
 
+## Download App
+
+*  Download APK file from [here](https://github.com/mayankrd/burpee-challenge/raw/master/app/app-release.apk)
+
 ## Installation and Usage instructions
 
 * This complete Android Studio project makes up an Android mobile application which contains multiple projects intergrated as one app. This one app contains the Burpee Challenge app and the Scraggle game
-
-* The application can be used diretly by installing the 'app-release.apk' file present under 'app' folder
 
 * Upon installing the app creates two icons on phone. The first icon named 'NUMAD16S-MayankRanjanDayal' contains the full application along with a button 'Final Project' on home screen to invoke the Burpee Challenge application. The second icon titled 'MAD16S-BurpeeChallenge' on phone invokes the Burpee Challenge application directly
 
